@@ -1,0 +1,7 @@
+Better Codes and Data Structures|Better Codes and Data Structures|1
+Following certain design structures|Following certain design structures|2
+Micro-service architecture|Micro-service architecture|3
+Using AWS|Using AWS|4
+Load testing|Load testing|5
+Database indexing|Database indexing|6
+Did not responded|Did not responded|7

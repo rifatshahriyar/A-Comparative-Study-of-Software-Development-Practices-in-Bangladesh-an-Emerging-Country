@@ -1,0 +1,158 @@
+{
+  "Timestamp": {
+    "header": "timestamp"
+  },
+  "Gender?": {
+    "header": "gender"
+  },
+  "Company Type": {
+    "header": "Company Type"
+  },
+  "Company Size": {
+    "header": "Company Size"
+  },
+  "Age?": {
+    "header": "age"
+  },
+  "Company Size": {
+    "header": "size"
+  },
+  "Name of the company you are currently working on (if you want to disclose)": {
+    "header": "current_company"
+  },
+  "For how many years have you coded professionally?": {
+    "header": "professional_experience"
+  },
+  "What is your current role?": {
+    "header": "current_role",
+    "Manager": ["High level management ( CEO, CIO, CFO )", "MIS Manager", "Technical Project Manager", "Project manager"],
+    "R&D": ["Research & Development Engineer", "Research and Development  "],
+    "SQA": ["Tester", "QA Lead", "Testing Automation"],
+    "Data Engineer": ["Lead Data Engineer, (Teach Lead of Data Eng. Team)"],
+    "Developer": ["Principle software engineer", "Software Engineer  ", "Software Development Engineer", "Developer"],
+    "Trainer": ["Sr Trainer"]
+  },
+  "Which of the following software development methodologies do you follow?": {
+    "header": "methodology",
+    "XP": ["Extreme Programming"],
+    "Others": ["Rapid Application Development (RAD) Methodology", "None. Sometimes waterfall", "nothing. Mostly, CTO's way of working is all in all.", "Mostly own developed methodology combining spiral and agile and using waterfall for small sprints", "Prototyping, Rapid Development, XP etc.", "not defined", "Not Disclosed", "Hybrid"]
+  },
+  "Which of the followings do you use for requirements gathering?": {
+    "header": "requirements_gathering",
+    "Others": ["Meeting with Customers", "SCRUM Meeting", "Interviews", "JIRA", "BRS"],
+    "Story board": ["User Stories"]
+  },
+  "On which software development activities, do you spend most of the time? ": {
+    "header": "most_spent_time",
+    "Required Knowledge gain before implementation ": "Requirement Analysis",
+    "Solution Architecting  ": "Program Design",
+    "Keeping communication and bargain with typical local clients": "Requirement Collection",
+    "Application Framework Development & Fixing": "Program Design"
+  },
+  "Which of the following technologies do you have experience working in?": {
+    "header": "technology_experience",
+    "Cloud Native ": "Cloud",
+    "Cloud Native": "Cloud",
+    "eGovernance, Enterprise, Bots, PLC": "Others",
+    "Back End, Data Engineering": "Others"
+  },
+  "What is the primary operating system you are developing on?": {
+    "header": "operating_system",
+    "Linux": ["Ubuntu"],
+    "Others": ["FreeBSD", "Java Card OS", "iOS, Android,", "ios/android"]
+  },
+  "Which programming languages are you using?": {
+    "header": "programming_language",
+    "Go": [" GO", "GO", "GO Lang", "golang"],
+    "Objective C": ["Objective C ", "Objective-C","Objective C"],
+    "Kotlin": ["kotlin"],
+    "Ruby": ["RUBY", "RUBY ", "ruby"],
+    "Scala": ["SCALA", "SCALA "],
+    "JavaScript": ["Node JS", "nodejs", "NodeJs", "NodeJs,","Angular 6", "React"],
+    "others": ["other front end things", "Bash Script"]
+  },
+  "Which frameworks are you using?": {
+    "header": "framework",
+    "Spring": ["Spring MVC", "Spring boot", "Spring mvc", "mvc"],
+    "Angular": ["Angular", "AngularJS", "angularjs"],
+    "Android": ["android studio (editor)"],
+    "Express": ["Express", "express"],
+    "React": ["React JS", "React", "native", "React.js", "ReactJS", "React native"],
+    "NodeJS": ["nodejs", "Nodejs"],
+    "CodeIgniter": ["Codeigniter", "Codelgniter"],
+    "Flask": ["FLASK ","FLASK"],
+    "Struts": ["struts", "Struts II"],
+    "Others": ["Cucmber", "cpprest", "lacewing", "Relay", "Sailsjs", "Selenium", "Appium", "CI,", "CakePHP", "Cocoa framework", "TestNG", "WPF", "Vue", "Watir", "YII", "Grails", "Ionic", "Joomla", "Jquery", "Elastic search", "swagger", "webrtc", "wordpress", "Oracle Java EE ", "Phoenix", "Raw PHP (no framework)", "Meteor"]
+  },
+  "Which IDE are you using?": {
+    "header": "ide",
+    "Android Studio": ["Android studio", "android studio", "webstorm android studio"],
+    "Visual Studio": ["Visual Studio Code", "VS Code", "VSCode"],
+    "PHPStorm": ["Phpstorm", "Phpstrome", "PhpStorm", "phpstorm"],
+    "Xcode": ["xCode", "XCode"],
+    "WebStorm": ["webstorm"],
+    "Sublime": ["Sublime Text", "Sublime "],
+    "RubyMine": ["RubyMine ", "rubymines"],
+    "Others": ["clion", "STS", "Notepad++"]
+  },
+  "What types of software testing practices do you use?": {
+    "header": "testing",
+    "API Testing": ["API TESTING", "API testing"],
+    "Load Testing": ["Load", "Load testing", "Load testing "],
+    "Integration Testing": ["System Integration Testing"],
+    "None": ["None", "none"],
+    "Others": ["Automated testing", "Regression & others", "Regression Testing etc", "Manual Testing", "manual", "Security testing" ,"Soak Testing" ,"Stress Testing"]
+  },
+  "What is the level of automated testing in your projects?": {
+    "header": "automated_testing"
+  },
+  "Which tools do you use for testing and quality assurance?": {
+    "header": "QA",
+    "XUnit": ["XUnit ( eg, JUnit, NUnit )"],
+    "None": ["None", "none", "nonw", "No tools right now", "manual"],
+    "Others": ["phpUnit", "Jmeter", "JMeter", "jmeter", "Sonarqube", "Script based testing", "JMeter, PostMan, Appium, Cucumber, Protractor ", "Enzyme, Mocha, Pytest", "Ghost Inspector,  Cypress", "Jest, Mocha, JMeter ", "JMeter, PostMan, Appium, Cucumber, Protractor","Jest, Mocha, JMeter"]
+  },
+  "Which tools do you use for continous deployment?": {
+    "header": "CD",
+    "None": ["none", "Not used yet"],
+    "Jenkins": ["JENKINS", "Jenkins", "Jenkins Pipeline", "Jenkins and GURU(vendor supplied)", "Jenkins with Ansible and deploys docker images", "Jenkins/AWS CodeBuild"],
+    "Others": ["Azure DevOps", "CircleCI", "Custom shell scripts ", "Docker", "ELMA", "GIT", "Github", "Gitlab", "ansible", "forge", "gitlab", "tomcat", "Manual", "Open Source server ", "Openshift", "Spinnaker"," GIT"," Github"]
+  },
+  "Which version control tool do you use?": {
+    "header": "version_control",
+    "BitBucket": ["Bitbucket  "],
+    "Git": ["git lab", "gitlab"],
+    "SVN": ["svn"],
+    "Others": ["TFS", "cvs", "Mercurial"]
+  },
+  "What are your expectations from the manager?": {
+    "header": "manager_expectation"
+  },
+  "Are you involved in any R&D projects?": {
+    "header": "RD_involvement"
+  },
+  "How do you ensure scalability of your products? ": {
+    "header": "scalability"
+  },
+  "How do you maintain performance of your products?": {
+    "header": "performance"
+  },
+  "How do you ensure security of your products?": {
+    "header": "security"
+  },
+  "What are your expectations from the employees?": {
+    "header": "employee_expectation"
+  },
+  "What are your expectations from the potential candidates?": {
+    "header": "candidate_expectation"
+  },
+  "What are your expectations from the universities?": {
+    "header": "university_expectation"
+  },
+  "What are your expectations from the Government?": {
+    "header": "government_expectation"
+  },
+  "What kind of training facilities do you provide for the employees ? ": {
+    "header": "training"
+  }
+}

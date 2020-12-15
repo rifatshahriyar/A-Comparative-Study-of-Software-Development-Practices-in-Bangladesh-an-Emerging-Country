@@ -1,0 +1,7 @@
+Load balancing|Load balancing|1
+Performance monitoring tools|Performance monitoring tools|2
+User feedbacks|User feedbacks|3
+Using bettter codes|Using bettter codes|4
+Continual evaluation|Continual evaluation|5
+Code review|Code review|6
+Did not responded|Did not responded|7

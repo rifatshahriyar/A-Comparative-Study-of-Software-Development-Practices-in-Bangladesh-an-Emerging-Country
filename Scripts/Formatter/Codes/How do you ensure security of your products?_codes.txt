@@ -1,0 +1,7 @@
+OAuth2 Protocol|OAuth2 Protocol|1
+Token-based Authentication|Token-based Authentication|2
+Multi-prong Standard Process|Multi-prong Standard Process|3
+Password Encryption|Password Encryption|4
+Owasp Based Tools|Owasp Based Tools|5
+Encryption at Various Levels|Encryption at Various Levels|6
+Did not responded|Did not responded|7

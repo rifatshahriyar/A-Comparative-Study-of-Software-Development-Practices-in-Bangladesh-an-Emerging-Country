@@ -1,0 +1,5 @@
+Technical skill|Technical skill|1
+In house training|In house training|2
+Supervision of seniors|Supervision of seniors|3
+Runtime training|Runtime training|4
+Did not responded|Did not responded|5

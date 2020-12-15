@@ -1,0 +1,276 @@
+Did not responded. 
+
+using better codes and better data structures
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Following certain design patterns
+
+Did not responded. 
+
+We follow the micro-service architecture. In a nutshell, we scale up the module vertically which is necessary. We use docker along with Jenkins for automatic deployments and scaling. 
+
+Did not responded. 
+
+AWS
+
+Did not responded. 
+
+following flexible framework which allows better scalability 
+
+Besides scaling horizontally, database scaling is performed by partitioning tables, along with multi-threaded implementations.
+
+Coding efficiently
+
+Utilizing Reactive strategy we ensure scalability
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+By following some design patterns
+
+During design phase and providing sufficient machines
+
+Did not responded. 
+
+We work in a client project. User of this system is not very large. So, there is not much priority on scalability 
+
+Did not responded. 
+
+Using AWS Elastic Load Balancer 
+
+I don't need it for my project
+
+Did not responded. 
+
+Did not responded. 
+
+load testng, user experience 
+
+Did not responded. 
+
+Did not responded. 
+
+through load testing and load simulation.
+
+Did not responded. 
+
+Did not responded. 
+
+Doing proper code.
+
+Did not responded. 
+
+During implementation we always keep in mind about the scaling factor
+
+Did not responded. 
+
+Micro-service architecture, loosely coupled system, avoiding single point of failure, propee caching, DB indexing, Logging errors & warnings, Asynchronous programming, Cloud services (AWS / Azure)
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Best Practices
+
+Did not responded. 
+
+In serverside we use Varnish Redis Catch Server to deliver file/data to client faster. Some time we have to use Database multiple instance with AWS
+
+Did not responded. 
+
+Did not responded. 
+
+I try to follow MVC design pattern and implement reusable codes.
+
+Sincerety and consistent
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We analyse the capacity of our apis' and find out possible bottlenecks in architecture after consulting with senior team members. We also need to read shortcomings of each technology and decide based on that.
+
+Did not responded. 
+
+Did not responded. 
+
+Cloud implementation
+
+aws
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+proper project planning, standard dev. process and modularise the whole project
+
+During design
+
+Did not responded. 
+
+Through designing APIs and queries accordingly
+
+Did not responded. 
+
+I don't. This is the role of Sr. Software Engineer
+
+Yes
+
+Big data model, REST API
+
+Did not responded. 
+
+By implementing architectural changes and cloud configuration
+
+Did not responded. 
+
+Did not responded. 
+
+using scalability tools
+
+Did not responded. 
+
+microservices, horizontal scaling. 
+
+Having Idea and validate that the product will fit the market, defining project goals and product requirements, Choosing the right methodology, Choosing the right technical decision, Version release and getting feedback from client.
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We used Docker technology
+
+Application is on REST service layer 
+
+Auto-scaling
+
+Did not responded. 
+
+De coupling
+
+Did not responded. 
+
+Did not responded. 
+
+Microservice Oriented
+
+Did not responded. 
+
+Yes
+
+Did not responded. 
+
+Did not responded. 
+
+1. Get the basics down.
+2. Automate Everything.
+6. Excuse yourself.
+
+adding more resources as needed
+
+Did not responded. 
+
+Did not responded. 
+
+Standard code of products and depends on client happiness.
+
+Define a business that is open-ended and continuously improving,Building a business plan and model that is attractive to investors,create a strong team
+
+API(Return metadata in JSON format ) which developed for data extraction at a time work with a single file and use efficient data structure to store the file data.Size of that file doesn't matter for analysing  data and pattern recognizing.
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Planning with focusing future
+
+Distributed Services
+
+Did not responded. 
+
+Microservice Oriented
+
+Did not responded. 
+
+By defining solid architecture. 
+
+Did not responded. 
+
+Think ahead of the requirements
+
+By doing load test
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We somewhat depend on the language, platform and framework. Which is why we chose django python for most of our projects. Additionally we keep provision for future improvements and scalability.
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+During implementation trying to follow best practices.
+
+Did not responded. 
+
+Did not responded. 
+
+DB level index, Load balance , clustering of app server 
+
+by using perfect implementation
+
+Did not responded. 
+
+Did not responded. 
+
+I use Microservice
+
+I do not know
+
+Did not responded. 
+
+Yes
+
+quality 
+
+Did not responded. 
+

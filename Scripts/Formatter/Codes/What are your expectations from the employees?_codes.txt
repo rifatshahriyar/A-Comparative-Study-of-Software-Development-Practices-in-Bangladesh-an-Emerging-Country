@@ -1,0 +1,7 @@
+Commitment|Commitment|1
+Teamwork|Teamwork|2
+Learning Aptitude|Learning Aptitude|3
+Clean code|Clean code|4
+Honesty and Integrity|Honesty and Integrity|5
+Self Initiative|Self Initiative|6
+Did not responded|Did not responded|7

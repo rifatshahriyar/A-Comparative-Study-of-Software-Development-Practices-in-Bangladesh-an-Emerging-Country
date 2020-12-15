@@ -1,0 +1,4 @@
+Yes|Yes|1
+No|No|2
+Sometimes|Sometimes|3
+Did not responded|Did not responded|4

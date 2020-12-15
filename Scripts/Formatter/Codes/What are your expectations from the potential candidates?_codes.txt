@@ -1,0 +1,7 @@
+Eager to learn|Eager to learn|1
+Clear basic|Clear basic|2
+Problem solving skill|Problem solving skill|3
+Commitment|Commitment|4
+Analytical Ability|Analytical Ability|5
+Team Player|Team Player|6
+Did not responded|Did not responded|7

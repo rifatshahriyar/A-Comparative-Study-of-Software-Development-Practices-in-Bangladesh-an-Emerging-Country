@@ -1,0 +1,277 @@
+Did not responded. 
+
+using better codes and better servers
+
+Did not responded. 
+
+Did not responded. 
+
+Yes.
+
+Did not responded. 
+
+Did not responded. 
+
+1. User feedback
+2. Performance monitoring tools
+
+Did not responded. 
+
+There are automated integration tests for main features. However, the others are mostly tested manually. 
+
+Did not responded. 
+
+User feedback
+
+Did not responded. 
+
+regular rechecking/running of automation scripts as a automation tester
+
+The code quality is assessed by the different team members during code review, followed by designing new ways to solve issues in the product that are time-intensive.
+
+Coding efficiently
+
+By rigorous testing & checking performance testing
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+By Testing
+
+By careful designing
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Using different Optimization tools
+
+Good Caching
+
+Did not responded. 
+
+Did not responded. 
+
+Fixing bug, customer feedback, change or modify existing framework
+
+Did not responded. 
+
+Did not responded. 
+
+take help of different performance monitoring tools and dashboard, analyzed data , measure time and memory efficiency of process 
+
+Did not responded. 
+
+Did not responded. 
+
+Writing proper code
+
+Did not responded. 
+
+Implementation time carefulness and maintaining a well developed coding standard
+
+Did not responded. 
+
+Optimizing number of HTTP requests, Asynchronous programming, Caching, CDN, Load Balancing, nginx, varnish, compression of data, 
+Continuous monitoring, Load testing, stress testing
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Appropriate Algorithms and Design Patterns
+
+Did not responded. 
+
+As a front-end developer I use some tools like pug, sass, babel transpiler for less code and more output of HTML, CSS and JS works. These are allow me to easily maintain and scale codes.
+
+Did not responded. 
+
+Did not responded. 
+
+Actually if the loading time is not much high, I don't check performance issue. But if it does, I analyze my sites with chrome debugger and online tools and try to fix the issues if clients are willing to pay for that. 
+
+Optimization, stability, 
+
+Load Testing
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We review the codes and perform load testing based on the importance of the feature.
+
+Did not responded. 
+
+Did not responded. 
+
+efficiency in all levels
+
+Did not responded. 
+
+Did not responded. 
+
+Runtime and flash size
+
+Did not responded. 
+
+Continuous feedback from clients and QA team
+
+continuous monitoring
+
+Did not responded. 
+
+By maintaining good practices, through repeated inspection and upgradation until the performance meets the expectation. 
+
+Did not responded. 
+
+By writing clean code and applying appropriate design pattern.
+
+Yes
+
+Not achieved yet
+
+Did not responded. 
+
+periodic performance refactorings
+
+Did not responded. 
+
+Did not responded. 
+
+load testing
+
+Did not responded. 
+
+measure, then improve, and iterate. Not doing big up front performance centric design.
+
+Customer and Employee Involvement and Teamwork, Quality Planning carefully, monitoring work, and constant reevaluation and adjustment, Continual Improvement of Systems
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Amazon Hosting and Quality Software
+
+User load and Exception Handle
+
+Continuous monitoring
+
+Did not responded. 
+
+Code review
+
+Did not responded. 
+
+Did not responded. 
+
+Multi Prong Standard Processes
+
+Did not responded. 
+
+Yes
+
+Did not responded. 
+
+Did not responded. 
+
+Customer Focus,Obsession with Quality,Continual Improvement of Systems,Unity of Purpose,Teamwork,Scientific Approach
+
+speed test, concurrency usage etc
+
+Did not responded. 
+
+Did not responded. 
+
+Upgrade new technologies and update with present business strategy.
+
+By Making a commitment,Invest in training,Organize quality circles
+
+Too many metadata need to be extracted from DPP, RDPP, ADP, RADP file. Now i'm developing  many parsing strategy.after competing it for all keyword i build a LSTM model  for fixing the strategy of a specific  file structure using the weight of probability. 
+After that i can say the performance of my model. At present stage, you can see the performance of this sub-system as we follow  end to end development . Trying  continuously  to accurate the result.
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Page speed, SEO, Code refactoring
+
+Load Testing
+
+Did not responded. 
+
+Multi Prong Standard Processes
+
+Did not responded. 
+
+By defining solid architecture and easy to change things. 
+
+Did not responded. 
+
+Did not responded. 
+
+Following good practice
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Right now there isn't any performance metrics set except Load Testing.
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Design optimally
+
+Did not responded. 
+
+Load Test, Response Time, Code Quality
+
+Load test
+
+using kpi
+
+Did not responded. 
+
+Did not responded. 
+
+See load balancing
+
+I do not know
+
+Did not responded. 
+
+Yes
+
+upgrade 
+
+Did not responded. 
+

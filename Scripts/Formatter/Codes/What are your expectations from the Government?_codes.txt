@@ -1,0 +1,6 @@
+More research fund|More research fund|1
+More investment in IT|More investment in IT|2
+Distribution of project based on skill|Distribution of project based on skill|3
+Online and Free training|Online and Free training|4
+Cheaper Internet|Cheaper Internet|5
+Did not responded|Did not responded|6

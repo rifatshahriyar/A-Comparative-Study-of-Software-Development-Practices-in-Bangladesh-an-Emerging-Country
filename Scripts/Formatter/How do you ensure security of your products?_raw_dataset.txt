@@ -1,0 +1,274 @@
+Did not responded. 
+
+network blocking and common security measures
+
+Did not responded. 
+
+Did not responded. 
+
+Both client and server side.
+
+Did not responded. 
+
+Did not responded. 
+
+1. Spring Security
+
+Did not responded. 
+
+As we are regulated by Bangladesh Bank as a payment processing platform, we need to maintain certain security compliance which cannot be disclosed here. The security compliance is similar to the PCI DSS compliance which I can say. 
+
+Did not responded. 
+
+PA-DSSs, p2pe
+
+Did not responded. 
+
+by doing security/penetration testing
+
+As our product is still under development, no thought has gone into security of the product yet.
+
+Coding efficiently 
+
+Local LAN & VCS server
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+by not disclosing code base
+
+By careful desigining
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Using OAuth2 protocol.
+
+I don't have to worry about it
+
+Did not responded. 
+
+Did not responded. 
+
+network security control, identity and access managemen,  password encryption, using latest technology 
+
+Did not responded. 
+
+Did not responded. 
+
+use encryption at different level of software (server, network, transmission layer, database and software layer.)
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Applying access checking methods
+
+Did not responded. 
+
+Security testings like: SQL injection, cross-site scripting, CSRF, API security, use of https,  detecting malicious / suspicious HTTP requests and auto-blocking
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We use github/bitbucket repository systems to code maintain and store. We use server side security on AWS and other third party server host.
+
+Did not responded. 
+
+Did not responded. 
+
+Usually I implement both client and server side data validation, escape html entities, disable indexing. 
+
+Testing
+
+Common Security Practices isn't broken, SSL, Authentication
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We run security audit of our office environment. We also conduct security session per 6 months to introduce latest trend in threats and what we can do to avoid it.
+
+Did not responded. 
+
+Did not responded. 
+
+general practices
+
+oauth2, two step verifiations
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+end to end security
+
+design and monitoring
+
+Did not responded. 
+
+We use proper validations (both client and server side), make stored procedures secured and ensure proper access control.
+
+Did not responded. 
+
+So far this thing has not been my headache.
+
+Yes
+
+At application level, could not achieve others yet
+
+Did not responded. 
+
+rely on owasp based tools to suggest security flaws so that those could be fixed.
+
+Did not responded. 
+
+Did not responded. 
+
+both network and in software
+
+Did not responded. 
+
+https, popular framework which already prevents some type of attacks. rest of the things on case-by-case basis.
+
+According to International Security Standard
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+ISO 270001 procedures and controls are in practice 
+
+Token based authentication for all of my rest service 
+
+Did not responded. 
+
+Did not responded. 
+
+Testing
+
+we can use framework
+
+Did not responded. 
+
+Multi Prong Standard Processes and Products
+
+Did not responded. 
+
+Yes
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We have implemented/used https, VPN, access control etc
+
+Did not responded. 
+
+Did not responded. 
+
+User login authentication and csrf protection.
+
+Start from the beginning and keep going,Quality maintain,Design with the future in mind
+
+Spring Boot framework will be used in back-end development. And spring boot Security is so much strong.    
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We use a security scanner tool amd fix accrodingly 
+
+OWASP, Network and Infrastructure Security
+
+Did not responded. 
+
+Multi Prong Standard Processes and Products
+
+Did not responded. 
+
+There are some basic guidelines that we must follow and while code review this needs to be an absolute part that needs to be checked before the code gets merged. 
+
+Did not responded. 
+
+Did not responded. 
+
+Token based authentication 
+
+By Security Testing
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+We convert the codes to binary. Since we use python, it is the most convenient and economical solution for us.
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Did not responded. 
+
+Try to implement best practices.
+
+Did not responded. 
+
+OAuth 2.0, JWT, Token Base Authentication, CORS Filter, XSRF
+
+apache shiro , java ee secuirty - keyclock, HDiv, 
+
+using encryption
+
+Did not responded. 
+
+Did not responded. 
+
+Both server & application level .
+
+highly secured
+
+Did not responded. 
+
+Following industry standard and best practices, also we arrange hacking session internally to break own security vulnerabilities 
+
+upgrade 
+
+Did not responded. 
+

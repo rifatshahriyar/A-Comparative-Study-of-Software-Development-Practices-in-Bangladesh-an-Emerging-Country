@@ -1,0 +1,8 @@
+Proper Behavioral Manner|Proper Behavioral Manner|1
+Being Reasonable|Being Reasonable|2
+Flexibility of Technology|Flexibility of Technology|3
+Requirement Management|Requirement Management|4
+Opportunity of Necessary trainings|Opportunity of Necessary trainings|5
+Responsibility|Responsibility|6
+Timeline Maintain|Timeline Maintain|7
+Did not responded|Did not responded|8
